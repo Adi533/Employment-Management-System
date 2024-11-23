@@ -70,6 +70,7 @@ The Employee Management System (EMS) is a web application developed to streamlin
 
 - Access the application in your browser at `http://localhost:3000`.
 - Log in using your username and password.
+- Use Email - superadmin@gmail.com and Password - superadmin for super admin and then create your employees
 - Depending on your role (normal user or super admin), you will have access to different functionalities.
 
 ## Contributing
