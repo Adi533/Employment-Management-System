@@ -1,4 +1,4 @@
-# employee-management-system
+# Employee-Management-System
  
 The Employee Management System (EMS) is a web application developed to streamline human resource management processes. It is built using the MERN (MongoDB, Express.js, React, Node.js) stack and utliizes React-Bootstrap for the user interface components and Chart.js for data visualization.
 
